@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    //This is a C++ program to find the highest number.
+    //This is a C++ program to find the highest number for this program
     string numeric;
     cout<<"Enter a numeric value: ";
     getline(cin, numeric);
